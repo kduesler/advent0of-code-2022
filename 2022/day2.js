@@ -2587,4 +2587,3 @@ const actualTotal = actualScores.reduce(sumReducer, 0);
 
 console.log(actualTotal);
 
-
